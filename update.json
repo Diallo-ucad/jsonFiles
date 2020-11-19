@@ -1,0 +1,10 @@
+{
+  "latestVersion": "1.2.0",
+  "versionCode" : 5,
+    "cancellable" : false,
+  "url": "https://apptech-api.ces-incendie.fr/app-update/apk/apptech_1.2.0.apk",
+  "releaseNotes": [
+    "- Test update"
+  ]
+
+}
